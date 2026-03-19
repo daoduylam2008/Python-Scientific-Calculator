@@ -23,7 +23,7 @@ A desktop scientific calculator built with Python and Tkinter, supporting standa
 
 ### Option 1: Clone with Git
 ```bash
-git clone https://github.com/daoduylam2008/Python-Calculator.git
+git clone https://github.com/daoduylam2008/Python-Scientific-Calculator.git
 cd your-repo-name
 ```
 
